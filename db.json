@@ -1,20 +1,8 @@
 {
   "books": [
     {
-      "title": "Yashar",
+      "title": "david shameless",
       "id": 1
-    },
-    {
-      "title": "Lior",
-      "id": 2
-    },
-    {
-      "title": "Idan",
-      "id": 3
-    },
-    {
-      "title": "Niv",
-      "id": 4
     }
   ]
 }
